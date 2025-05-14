@@ -21,7 +21,7 @@ A simple face recognition application that uses your webcam to detect and identi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/face_detection.git
+   git clone https://github.com/becknadir/face_detection.git
    cd face_detection
    ```
 
